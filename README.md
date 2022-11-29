@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kayqueth
 - 👀 I am always interested in learning more and more
-- 🌱 I am currently studying Software Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am currently studying Software Engineering. 
+- 💞️ I’m looking to collaborate on tudo que eu conseguir agregar valor.
 - 📫 You can reach me via email kayque thiago@alu.ufc.br
 
 <!---
