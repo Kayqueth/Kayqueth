@@ -2,9 +2,11 @@
 
 
   <a href="https://github.com/kayqueth">
+    <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kayqueth&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github.com/josepholiveira/josepholiveira/blob/master/images/illustration.png" width="300"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayqueth&layout=compact&langs_count=7&theme=blue"/>
+  
 </div>
     
 <div align="center">
